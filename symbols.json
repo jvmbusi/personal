@@ -1,1 +1,15 @@
-{ "req": [["ITC","ITC"],["ITC","ITC"],["ITC","ITC"],["ITC","ITC"]] }
+{ "bank": [
+  {"name":"Federal Bank", "sym":"FEDERALBNK", "fv":2, "ici":"", "key":"J334R5M1V53SLYXG" },
+  {"name":"RBL Bank Limited", "sym":"RBLBANK", "fv":10, "ici":"", "key":"VJI5IG8UTCQ44G6F" },
+  {"name":"Bank of Baroda", "sym":"BANKBARODA", "fv":2, "ici":"", "key":"2VKR744BN0D7YFR4" },
+  {"name":"State Bank of India", "sym":"SBIN", "fv":1, "ici":"", "key":"6M89RCT5H3JS8SGR" },
+  {"name":"Punjab National Bank", "sym":"PNB", "fv":2, "ici":"", "key":"9GKL6Z94HLCV4NAD" },
+  {"name":"IDFC First Bank Limited", "sym":"IDFCFIRSTB", "fv":10, "ici":"", "key":"4GEIOVMH6S25RST9" },
+  
+  
+  
+  {"name":"RBL Bank Limited", "sym":"RBLBANK", "fv":0, "sec":"BANK", "ici":"", "key":"VJI5IG8UTCQ44G6F" },
+  {"sym":"ITC", "fv":2, "sec":"BANK", "key":"HOZZ1I7DKMN9NIGJ" },
+
+  
+] }
